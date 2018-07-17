@@ -1,6 +1,8 @@
 == Errors
 
+[options="header"]
 |=========================
+|Name | Hex Value
 |OK | 0x00
 |INVALID COMMAND | 0x01
 |INVALID DATA | 0x02
